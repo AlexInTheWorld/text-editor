@@ -1,0 +1,87 @@
+h3 { color: darkblue; }
+.intLink { cursor: pointer; }
+
+#select-opts {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: lightgray;
+}
+
+#select-opts div {
+    padding: 5px;
+    border-radius: 7px;
+    background-image: radial-gradient(white 40%, lightgray 85%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+label {
+    color: #507c7d;
+    margin-right: 4px;
+}
+
+#message-area {
+    position: relative;
+}
+
+#textBox, #html-viewer {
+    min-width: 300px;
+    height: 200px;
+    border: 1px #000000 solid;
+    padding: 8px;
+    overflow: scroll;
+}
+
+#html-viewer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#editMode label { cursor: pointer; }h3 { color: darkblue; }
+.intLink { cursor: pointer; }
+
+#select-opts {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: lightgray;
+}
+
+#select-opts div {
+    padding: 5px;
+    border-radius: 7px;
+    background-image: radial-gradient(white 40%, lightgray 85%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+label {
+    color: #507c7d;
+    margin-right: 4px;
+}
+
+#message-area {
+    position: relative;
+}
+
+#textBox, #html-viewer {
+    min-width: 300px;
+    height: 200px;
+    border: 1px #000000 solid;
+    padding: 8px;
+    overflow: scroll;
+}
+
+#html-viewer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#editMode label { cursor: pointer; }
